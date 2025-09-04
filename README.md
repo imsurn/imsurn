@@ -17,9 +17,3 @@ Known as *Surn in universe!* 🌍
 ## 📬 Connect with Me
 - **Email**: [imsurna@gmail.com](mailto:imsurna@gmail.com)
 - **Telegram**: [@imsurn](https://t.me/imsurn)
-
----
-
-## 🔹 Fun Fact
-I enjoy creating tools that **simplify tasks** and **make complex automation easy**.  
-From Telegram bots to server scripts, I love making technology work for people.
