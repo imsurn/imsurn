@@ -20,11 +20,6 @@ Known as *Surn in universe!* 🌍
 
 ---
 
-## 📊 GitHub Stats
-![Surn's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsurn&show_icons=true&theme=radical)
-
----
-
 ## 🔹 Fun Fact
 I enjoy creating tools that **simplify tasks** and **make complex automation easy**.  
 From Telegram bots to server scripts, I love making technology work for people.
