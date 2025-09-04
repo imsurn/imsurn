@@ -15,8 +15,8 @@ Known as *Surn in universe!* 🌍
 ---
 
 ## 📬 Connect with Me
-- **Email**: Hello [at] ACh [dot] li  
-- **Telegram**: [@imsurn](https://t.me/imsurn)  
+- **Email**: [imsurna@gmail.com](mailto:imsurna@gmail.com)
+- **Telegram**: [@imsurn](https://t.me/imsurn)
 
 ---
 
